@@ -3,6 +3,12 @@
 Aplikasi ini dibuat untuk memenuhi persyaratan pendaftaran sebagai Web Developer di PT. Patigeni Mitra Sejati.
 <br>
 
+## Screenshot
+<img src = "img/1.png" width ="1000" height="500" />
+<img src = "img/4.png" width ="1000" height="500" />
+<img src = "img/2.png" width ="1000" height="500" />
+<img src = "img/3.png" width ="1000" height="500" />
+
 ## Installation
 1. Install application
 ```
